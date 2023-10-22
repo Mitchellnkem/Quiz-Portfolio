@@ -1,0 +1,166 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+body{
+	font-family:'Times New Roman', Times, serif;
+	background-color: wheat;
+
+}
+
+
+header{
+	background-color: violet;
+	min-height: 55px;
+	overflow: hidden;
+	border-bottom: yellowgreen 10px;
+}
+
+.logo{
+	padding: 12px;
+	margin: 7.7px;
+}
+
+.logo img{
+	border: whitesmoke solid 0.5px;
+	border-radius: 50%;
+	
+}
+
+nav{
+	float: right;
+	padding-top: -75px;
+	margin-top: -75px;
+}
+
+ul{
+	list-style-type: none;
+}
+
+li{
+	display: inline-block;
+	margin-right: 25px;
+}
+
+a{
+	text-decoration: dotted;
+	color: whitesmoke;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+a:hover{
+	color: pink;
+}
+
+
+
+.foodie .foodies{
+	margin-left: 950px;	
+	font-size: 3rem;
+}
+
+
+
+.project{
+	width: 100%;
+	height: 100%;
+	margin-top: 20px;
+	border-radius: 5%;
+}
+
+
+.pro1{
+	float: left;
+	margin-top: 25px;
+	margin-bottom: 7px;
+	width: 50%;
+	height: 400px;
+	text-align: center;
+	margin-left: 25px;
+	margin-right: 35px;
+}
+
+.pro1 img{
+	object-fit: contain;
+	width: 70%;
+	height: 205px;
+	margin-top: 55px;
+
+}
+
+.pro2{
+	float:left;
+	margin-top: 25px;
+	width: 30px;
+	height: 300px;
+	text-align: center;
+	margin-left: 5px;
+	margin-right: 25px;
+}
+
+.pro2 img{
+	object-fit: contain;
+	width: 570%;
+	height: 100%;
+	margin-top: 55px;
+}
+
+.pro3{
+	float: right;
+	margin-top: 20px;
+	width: 30%;
+	height: 300px;
+	text-align: center;
+	margin-right: 5px;
+	margin-left: 5px;
+
+}
+
+.pro3 img{
+	object-fit: contain;
+	width: 70%;
+	height: 205px;
+	margin-top: 55px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+	margin-top: 40%;
+	padding-top: 30px;
+	min-height: 50px;
+	background-color: whitesmoke;
+	text-align: center;
+	
+
+
+
+footer p{
+	color: black;
+	margin-top: -5px;
+	font-size: 25px;
+}}
